@@ -1,0 +1,5 @@
+C:\Proyectos\SoftVer.DBClient\SoftVer.DBClient\bin\Debug\SoftVer.DBClient.dll
+C:\Proyectos\SoftVer.DBClient\SoftVer.DBClient\bin\Debug\SoftVer.DBClient.pdb
+C:\Proyectos\SoftVer.DBClient\SoftVer.DBClient\obj\Debug\SoftVer.DBClient.dll
+C:\Proyectos\SoftVer.DBClient\SoftVer.DBClient\obj\Debug\SoftVer.DBClient.pdb
+C:\Proyectos\SoftVer.DBClient\SoftVer.DBClient\obj\Debug\SoftVer.DBClient.csprojResolveAssemblyReference.cache
